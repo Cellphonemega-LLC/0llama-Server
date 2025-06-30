@@ -118,3 +118,5 @@ The application will automatically create the necessary configuration and model 
 # 🤝 Contributing
 
 Contributions are welcome! If you have ideas for new features, bug fixes, or improvements, please feel free to open an issue or submit a pull request.
+
+** SEO : (run models locally - ollama for (mac|windows|linux) - ollama wrapper - run llm - ai tools - llama.cpp) **
