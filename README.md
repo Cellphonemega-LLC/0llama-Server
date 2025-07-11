@@ -1,10 +1,10 @@
-# Ollama-Server
-PHP Frontend for Hosting local LLM (run via vs code or basic php execute methods)
+# 0llama-Server (Zero LLAMA)
+No hassle PHP Frontend for Hosting local LLMs via ollam servers (run this via cli via VSCode or any basic php web server)
 
 
-Ollama Web Dashboard - The All-in-One Interface
+0llama Web Dashboard - The All-in-One Automated OLLAMA Interface
 
-A powerful, single-file, zero-dependency web interface for managing and interacting with your Ollama instance. This dashboard is designed for developers, researchers, and AI enthusiasts who need a robust and feature-rich tool to streamline their local LLM workflows.
+A powerful, auto-install, auto-setup, single-file, zero-dependency web interface for managing and interacting with an Ollama instance. This dashboard is designed for developers, researchers, and AI enthusiasts who need a robust and feature-rich tool to streamline their local LLM workflows. This automatically loads and create model files for the models located in the model folder. (PLUG AND PLAY MAXIMIZED)
 
 # 📖 Usage Guide:
 
